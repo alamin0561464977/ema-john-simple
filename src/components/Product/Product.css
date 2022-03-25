@@ -48,7 +48,7 @@
     cursor:pointer;
 }
 .btn-cart:hover{
-    background-color: rgb(223, 145, 1);
+    background-color: #ff9900;
     color: #fff;
     font-size: 20px;
 }
